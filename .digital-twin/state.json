@@ -1,0 +1,174 @@
+{
+  "updated_at": "2026-05-20T03:27:09.034307+00:00",
+  "cycle_history": [
+    {
+      "timestamp": "2026-05-20T03:27:08.658953+00:00",
+      "published": 1,
+      "failures": 0,
+      "contributions": 0,
+      "snapshots": 20
+    }
+  ],
+  "growth_snapshots": [
+    {
+      "repo_name": "github-digital-twin-state",
+      "repo_url": "https://github.com/zjukop/github-digital-twin-state",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034164+00:00"
+    },
+    {
+      "repo_name": "deepseek-harness",
+      "repo_url": "https://github.com/zjukop/deepseek-harness",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034207+00:00"
+    },
+    {
+      "repo_name": "claude-code",
+      "repo_url": "https://github.com/zjukop/claude-code",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034214+00:00"
+    },
+    {
+      "repo_name": "githubhot",
+      "repo_url": "https://github.com/zjukop/githubhot",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034219+00:00"
+    },
+    {
+      "repo_name": "cursor_3d_web",
+      "repo_url": "https://github.com/zjukop/cursor_3d_web",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034225+00:00"
+    },
+    {
+      "repo_name": "diffusers",
+      "repo_url": "https://github.com/zjukop/diffusers",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034230+00:00"
+    },
+    {
+      "repo_name": "youtube-dl",
+      "repo_url": "https://github.com/zjukop/youtube-dl",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034235+00:00"
+    },
+    {
+      "repo_name": "mmdetection",
+      "repo_url": "https://github.com/zjukop/mmdetection",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034240+00:00"
+    },
+    {
+      "repo_name": "TDN",
+      "repo_url": "https://github.com/zjukop/TDN",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034245+00:00"
+    },
+    {
+      "repo_name": "bgslibrary",
+      "repo_url": "https://github.com/zjukop/bgslibrary",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034250+00:00"
+    },
+    {
+      "repo_name": "CS-Book",
+      "repo_url": "https://github.com/zjukop/CS-Book",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034255+00:00"
+    },
+    {
+      "repo_name": "munkres-cpp",
+      "repo_url": "https://github.com/zjukop/munkres-cpp",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034260+00:00"
+    },
+    {
+      "repo_name": "Multitarget-tracker",
+      "repo_url": "https://github.com/zjukop/Multitarget-tracker",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034266+00:00"
+    },
+    {
+      "repo_name": "MVision",
+      "repo_url": "https://github.com/zjukop/MVision",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034270+00:00"
+    },
+    {
+      "repo_name": "SqueezeNet",
+      "repo_url": "https://github.com/zjukop/SqueezeNet",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034275+00:00"
+    },
+    {
+      "repo_name": "C3D",
+      "repo_url": "https://github.com/zjukop/C3D",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034281+00:00"
+    },
+    {
+      "repo_name": "openpose",
+      "repo_url": "https://github.com/zjukop/openpose",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034286+00:00"
+    },
+    {
+      "repo_name": "caffe-tensorflow",
+      "repo_url": "https://github.com/zjukop/caffe-tensorflow",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034291+00:00"
+    },
+    {
+      "repo_name": "kuhn_munkres",
+      "repo_url": "https://github.com/zjukop/kuhn_munkres",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034296+00:00"
+    },
+    {
+      "repo_name": "SENet",
+      "repo_url": "https://github.com/zjukop/SENet",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-20T03:27:09.034301+00:00"
+    }
+  ]
+}
