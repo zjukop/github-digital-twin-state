@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T01:30:10.163969+00:00",
+  "updated_at": "2026-05-29T05:49:30.258796+00:00",
   "cycle_history": [
     {
       "timestamp": "2026-05-20T03:27:08.658953+00:00",
@@ -94,6 +94,13 @@
     },
     {
       "timestamp": "2026-05-29T01:30:10.054689+00:00",
+      "published": 0,
+      "failures": 0,
+      "contributions": 0,
+      "snapshots": 20
+    },
+    {
+      "timestamp": "2026-05-29T05:49:30.048041+00:00",
       "published": 0,
       "failures": 0,
       "contributions": 0,
@@ -2340,6 +2347,166 @@
       "forks": 0,
       "watchers": 0,
       "created_at": "2026-05-29T01:30:10.163966+00:00"
+    },
+    {
+      "repo_name": "github-digital-twin-state",
+      "repo_url": "https://github.com/zjukop/github-digital-twin-state",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258740+00:00"
+    },
+    {
+      "repo_name": "trend-lab-prompttone-lab-260528",
+      "repo_url": "https://github.com/zjukop/trend-lab-prompttone-lab-260528",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258755+00:00"
+    },
+    {
+      "repo_name": "trend-lab-readme-live-demo-kit-260527",
+      "repo_url": "https://github.com/zjukop/trend-lab-readme-live-demo-kit-260527",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258758+00:00"
+    },
+    {
+      "repo_name": "trend-lab-polymarket-copytrade-replay-firewall-260526",
+      "repo_url": "https://github.com/zjukop/trend-lab-polymarket-copytrade-replay-firewall-260526",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258761+00:00"
+    },
+    {
+      "repo_name": "trend-lab-inputglow-260525",
+      "repo_url": "https://github.com/zjukop/trend-lab-inputglow-260525",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258764+00:00"
+    },
+    {
+      "repo_name": "trend-lab-skillsmith-260524",
+      "repo_url": "https://github.com/zjukop/trend-lab-skillsmith-260524",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258766+00:00"
+    },
+    {
+      "repo_name": "trend-lab-lumenpack-agent-airgap-260523",
+      "repo_url": "https://github.com/zjukop/trend-lab-lumenpack-agent-airgap-260523",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258768+00:00"
+    },
+    {
+      "repo_name": "trend-lab-video-folder-gpt-260522",
+      "repo_url": "https://github.com/zjukop/trend-lab-video-folder-gpt-260522",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258770+00:00"
+    },
+    {
+      "repo_name": "trend-lab-proofsnap-cli-260521",
+      "repo_url": "https://github.com/zjukop/trend-lab-proofsnap-cli-260521",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258772+00:00"
+    },
+    {
+      "repo_name": "github-digital-twin-agent",
+      "repo_url": "https://github.com/zjukop/github-digital-twin-agent",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258774+00:00"
+    },
+    {
+      "repo_name": "trend-lab-bot-autokit-260520",
+      "repo_url": "https://github.com/zjukop/trend-lab-bot-autokit-260520",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258776+00:00"
+    },
+    {
+      "repo_name": "deepseek-harness",
+      "repo_url": "https://github.com/zjukop/deepseek-harness",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258778+00:00"
+    },
+    {
+      "repo_name": "claude-code",
+      "repo_url": "https://github.com/zjukop/claude-code",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258780+00:00"
+    },
+    {
+      "repo_name": "githubhot",
+      "repo_url": "https://github.com/zjukop/githubhot",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258782+00:00"
+    },
+    {
+      "repo_name": "cursor_3d_web",
+      "repo_url": "https://github.com/zjukop/cursor_3d_web",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258783+00:00"
+    },
+    {
+      "repo_name": "diffusers",
+      "repo_url": "https://github.com/zjukop/diffusers",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258785+00:00"
+    },
+    {
+      "repo_name": "youtube-dl",
+      "repo_url": "https://github.com/zjukop/youtube-dl",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258787+00:00"
+    },
+    {
+      "repo_name": "mmdetection",
+      "repo_url": "https://github.com/zjukop/mmdetection",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258789+00:00"
+    },
+    {
+      "repo_name": "TDN",
+      "repo_url": "https://github.com/zjukop/TDN",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258791+00:00"
+    },
+    {
+      "repo_name": "bgslibrary",
+      "repo_url": "https://github.com/zjukop/bgslibrary",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-05-29T05:49:30.258793+00:00"
     }
   ]
 }
