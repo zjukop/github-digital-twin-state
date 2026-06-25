@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T01:56:57.413793+00:00",
+  "updated_at": "2026-06-25T00:05:57.218950+00:00",
   "cycle_history": [
     {
       "timestamp": "2026-05-20T03:27:08.658953+00:00",
@@ -735,169 +735,16 @@
       "failures": 0,
       "contributions": 0,
       "snapshots": 20
+    },
+    {
+      "timestamp": "2026-06-25T00:05:56.853942+00:00",
+      "published": 0,
+      "failures": 0,
+      "contributions": 0,
+      "snapshots": 20
     }
   ],
   "growth_snapshots": [
-    {
-      "repo_name": "github-digital-twin-state",
-      "repo_url": "https://github.com/zjukop/github-digital-twin-state",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.759956+00:00"
-    },
-    {
-      "repo_name": "trend-lab-video-folder-gpt-260522",
-      "repo_url": "https://github.com/zjukop/trend-lab-video-folder-gpt-260522",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.759971+00:00"
-    },
-    {
-      "repo_name": "trend-lab-proofsnap-cli-260521",
-      "repo_url": "https://github.com/zjukop/trend-lab-proofsnap-cli-260521",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.759974+00:00"
-    },
-    {
-      "repo_name": "github-digital-twin-agent",
-      "repo_url": "https://github.com/zjukop/github-digital-twin-agent",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.759976+00:00"
-    },
-    {
-      "repo_name": "trend-lab-bot-autokit-260520",
-      "repo_url": "https://github.com/zjukop/trend-lab-bot-autokit-260520",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.759980+00:00"
-    },
-    {
-      "repo_name": "deepseek-harness",
-      "repo_url": "https://github.com/zjukop/deepseek-harness",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.759982+00:00"
-    },
-    {
-      "repo_name": "claude-code",
-      "repo_url": "https://github.com/zjukop/claude-code",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.759984+00:00"
-    },
-    {
-      "repo_name": "githubhot",
-      "repo_url": "https://github.com/zjukop/githubhot",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.759986+00:00"
-    },
-    {
-      "repo_name": "cursor_3d_web",
-      "repo_url": "https://github.com/zjukop/cursor_3d_web",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.759988+00:00"
-    },
-    {
-      "repo_name": "diffusers",
-      "repo_url": "https://github.com/zjukop/diffusers",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.759990+00:00"
-    },
-    {
-      "repo_name": "youtube-dl",
-      "repo_url": "https://github.com/zjukop/youtube-dl",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.759992+00:00"
-    },
-    {
-      "repo_name": "mmdetection",
-      "repo_url": "https://github.com/zjukop/mmdetection",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.759994+00:00"
-    },
-    {
-      "repo_name": "TDN",
-      "repo_url": "https://github.com/zjukop/TDN",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.759996+00:00"
-    },
-    {
-      "repo_name": "bgslibrary",
-      "repo_url": "https://github.com/zjukop/bgslibrary",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.759998+00:00"
-    },
-    {
-      "repo_name": "CS-Book",
-      "repo_url": "https://github.com/zjukop/CS-Book",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.760000+00:00"
-    },
-    {
-      "repo_name": "munkres-cpp",
-      "repo_url": "https://github.com/zjukop/munkres-cpp",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.760002+00:00"
-    },
-    {
-      "repo_name": "Multitarget-tracker",
-      "repo_url": "https://github.com/zjukop/Multitarget-tracker",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.760004+00:00"
-    },
-    {
-      "repo_name": "MVision",
-      "repo_url": "https://github.com/zjukop/MVision",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.760006+00:00"
-    },
-    {
-      "repo_name": "SqueezeNet",
-      "repo_url": "https://github.com/zjukop/SqueezeNet",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.760007+00:00"
-    },
-    {
-      "repo_name": "C3D",
-      "repo_url": "https://github.com/zjukop/C3D",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "created_at": "2026-05-23T05:30:18.760009+00:00"
-    },
     {
       "repo_name": "trend-lab-lumenpack-agent-airgap-260523",
       "repo_url": "https://github.com/zjukop/trend-lab-lumenpack-agent-airgap-260523",
@@ -16737,6 +16584,166 @@
       "forks": 0,
       "watchers": 0,
       "created_at": "2026-06-24T01:56:57.413787+00:00"
+    },
+    {
+      "repo_name": "github-digital-twin-state",
+      "repo_url": "https://github.com/zjukop/github-digital-twin-state",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218897+00:00"
+    },
+    {
+      "repo_name": "trend-lab-agent-readme-pack-260624",
+      "repo_url": "https://github.com/zjukop/trend-lab-agent-readme-pack-260624",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218913+00:00"
+    },
+    {
+      "repo_name": "trend-lab-agent-mission-control-260623",
+      "repo_url": "https://github.com/zjukop/trend-lab-agent-mission-control-260623",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218915+00:00"
+    },
+    {
+      "repo_name": "trend-lab-repo-red-flag-260622",
+      "repo_url": "https://github.com/zjukop/trend-lab-repo-red-flag-260622",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218919+00:00"
+    },
+    {
+      "repo_name": "trend-lab-repo-scam-shield-260617",
+      "repo_url": "https://github.com/zjukop/trend-lab-repo-scam-shield-260617",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218922+00:00"
+    },
+    {
+      "repo_name": "trend-lab-voc-to-prd-skill-260616",
+      "repo_url": "https://github.com/zjukop/trend-lab-voc-to-prd-skill-260616",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218923+00:00"
+    },
+    {
+      "repo_name": "trend-lab-agent-tripwire-260615",
+      "repo_url": "https://github.com/zjukop/trend-lab-agent-tripwire-260615",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218925+00:00"
+    },
+    {
+      "repo_name": "trend-lab-voiceprint-editor-260613",
+      "repo_url": "https://github.com/zjukop/trend-lab-voiceprint-editor-260613",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218926+00:00"
+    },
+    {
+      "repo_name": "trend-lab-taskforge-agent-task-linter-260612",
+      "repo_url": "https://github.com/zjukop/trend-lab-taskforge-agent-task-linter-260612",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218928+00:00"
+    },
+    {
+      "repo_name": "trend-lab-skillforge-agent-kit-260611",
+      "repo_url": "https://github.com/zjukop/trend-lab-skillforge-agent-kit-260611",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218929+00:00"
+    },
+    {
+      "repo_name": "trend-lab-agent-ready-260610",
+      "repo_url": "https://github.com/zjukop/trend-lab-agent-ready-260610",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218930+00:00"
+    },
+    {
+      "repo_name": "trend-lab-local-subtitle-studio-260609",
+      "repo_url": "https://github.com/zjukop/trend-lab-local-subtitle-studio-260609",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218931+00:00"
+    },
+    {
+      "repo_name": "trend-lab-wearable-vault-260608",
+      "repo_url": "https://github.com/zjukop/trend-lab-wearable-vault-260608",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218932+00:00"
+    },
+    {
+      "repo_name": "trend-lab-open-design-agent-kit-260607",
+      "repo_url": "https://github.com/zjukop/trend-lab-open-design-agent-kit-260607",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218934+00:00"
+    },
+    {
+      "repo_name": "trend-lab-skillforge-260606",
+      "repo_url": "https://github.com/zjukop/trend-lab-skillforge-260606",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218937+00:00"
+    },
+    {
+      "repo_name": "trend-lab-tabloid-tabs-to-paper-260605",
+      "repo_url": "https://github.com/zjukop/trend-lab-tabloid-tabs-to-paper-260605",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218938+00:00"
+    },
+    {
+      "repo_name": "trend-lab-pr-sandbox-guard-260604",
+      "repo_url": "https://github.com/zjukop/trend-lab-pr-sandbox-guard-260604",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218939+00:00"
+    },
+    {
+      "repo_name": "trend-lab-playbookify-260603",
+      "repo_url": "https://github.com/zjukop/trend-lab-playbookify-260603",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218940+00:00"
+    },
+    {
+      "repo_name": "trend-lab-georisk-atlas-260602",
+      "repo_url": "https://github.com/zjukop/trend-lab-georisk-atlas-260602",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218942+00:00"
+    },
+    {
+      "repo_name": "trend-lab-trustpack-local-ai-workspace-260601",
+      "repo_url": "https://github.com/zjukop/trend-lab-trustpack-local-ai-workspace-260601",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "created_at": "2026-06-25T00:05:57.218943+00:00"
     }
   ]
 }
